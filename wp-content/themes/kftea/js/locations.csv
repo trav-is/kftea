@@ -1,0 +1,6 @@
+Fcilty_type,Fcilty_name,Shp_area,Street_add,City,State,Zip,Hrs_of_bus,Fcilty_type_2,Lat,Lng,result,Audio
+Tea,Flushing Kissena,Queens,41-11 Kissena Blvd,Flushing,NY,11355,,,40.758295,-73.829134,1,
+Tea,Queens Crossing,Queens,"136-20 38 Ave, 1 FL",Flushing,NY,11354,,,40.765808,-73.833084,2,
+Tea,New World Mall,Queens,"136-20 Roosevelt Ave, Food Court #7",Flushing,NY,11354,,,40.809504,-73.88011,3,
+Tea,College Point Store,Queens,20-07 127th Street,College Point,NY,11356,,,40.78112,-73.840963,4,
+Tea,Jackson Heights,Queens,82-02 Roosevelt Ave,Jackson Heights,NY,11372,,,40.747566,-73.883691,5,
